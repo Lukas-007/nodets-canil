@@ -1,0 +1,9 @@
+o que precisamos ter instalado para rodar projeto com nodemom
+
+nodemon
+typescript
+ts-node
+
+todas globais
+
+npm install -g nodemon typescript ts-node
